@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" width="785" height="600" text="Browser&#xA;http://..." measuredWidth="785" measuredHeight="600"/>
+  <widgets xsi:type="model:Rectangle" id="4" x="10" y="60" width="103" height="85" text="Your Logo" measuredWidth="103" measuredHeight="85">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" id="6" x="272" y="57" width="503" height="88" text="Hình ảnh quảng cáo" measuredWidth="503" measuredHeight="88"/>
+  <widgets xsi:type="model:TabbedPane" id="7" y="224" width="289" height="366" text="Tab kết quả,Tab Dẫn đường" measuredWidth="289" measuredHeight="366" selection="0">
+    <items x="10" y="0" width="82" height="27" text="Tab kết quả"/>
+    <items x="92" y="0" width="102" height="27" text="Tab Dẫn đường"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Map" id="10" x="288" y="251" width="487" height="339" measuredWidth="487" measuredHeight="339"/>
+  <widgets xsi:type="model:Combo" id="11" x="368" y="224" text="Bán/Thuê" measuredWidth="76" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="12" x="704" y="224" text="Diện tích" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="14" x="576" y="464" measuredWidth="32" measuredHeight="32" icon="location (large)"/>
+  <widgets xsi:type="model:Combo" id="15" x="656" y="224" text="Giá" measuredWidth="41" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="16" x="552" y="224" text="Quận/Huyện" measuredWidth="93" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="17" x="456" y="224" text="Tỉnh/thành" measuredWidth="84" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="26" x="10" y="272" width="71" height="77" measuredWidth="71" measuredHeight="77" icon="image (large)"/>
+  <widgets xsi:type="model:Text" id="27" x="88" y="307" width="173" height="45" text="&#xD;&#xA;khu căn hộ Riverside residen, Phú Mỹ Hưng, quận 7" measuredWidth="173" measuredHeight="45" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="28" x="88" y="275" width="185" height="49" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="185" measuredHeight="49" dummyText="true">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="88" y="339" text="Giá: 1000 USD" measuredWidth="86" measuredHeight="23">
+    <font bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="88" y="361" text="Diện tích: 146 m2" measuredWidth="104" measuredHeight="23">
+    <font bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="32" x="10" y="393" width="71" height="77" measuredWidth="71" measuredHeight="77" icon="image (large)"/>
+  <widgets xsi:type="model:Text" id="33" x="88" y="428" width="173" height="45" text="&#xD;&#xA;khu căn hộ Riverside residen, Phú Mỹ Hưng, quận 7" measuredWidth="173" measuredHeight="45" dummyText="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="34" x="88" y="396" width="185" height="49" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="185" measuredHeight="49" dummyText="true">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="88" y="460" text="Giá: 1000 USD" measuredWidth="86" measuredHeight="23">
+    <font bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="88" y="482" text="Diện tích: 146 m2" measuredWidth="104" measuredHeight="23">
+    <font bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="37" x="48" y="536" text="Trang 1, Trang 2, Trang 3" measuredWidth="182" measuredHeight="27" selection="0">
+    <font/>
+    <items x="0" y="0" width="61" height="27" text="Trang 1"/>
+    <items x="61" y="0" width="60" height="27" text="Trang 2"/>
+    <items x="121" y="0" width="61" height="27" text="Trang 3"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="38" x="10" y="160" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="39" x="578" y="162" text="Đăng ký,Đăng nhập,Đăng tin" measuredWidth="189" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="45" height="23" text="Đăng ký"/>
+    <items x="63" y="0" width="60" height="23" text="Đăng nhập"/>
+    <items x="141" y="0" width="47" height="23" text="Đăng tin"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="40" x="10" y="192" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="41" x="20" y="194" text="Trang chủ, Cho thuê căn hộ, Cho thuê nhà, Cho thuê mặt bằng, Cho Thuê Văn Phòng, Cho thuê biệt thự,  Bán nhà, Bán đất, Bản đồ, Liên hệ" measuredWidth="685" measuredHeight="20">
+    <font size="7"/>
+    <items x="0" y="0" width="41" height="20" text="Trang chủ"/>
+    <items x="59" y="0" width="66" height="20" text="Cho thuê căn hộ"/>
+    <items x="143" y="0" width="55" height="20" text="Cho thuê nhà"/>
+    <items x="216" y="0" width="78" height="20" text="Cho thuê mặt bằng"/>
+    <items x="312" y="0" width="85" height="20" text="Cho Thuê Văn Phòng"/>
+    <items x="415" y="0" width="70" height="20" text="Cho thuê biệt thự"/>
+    <items x="503" y="0" width="36" height="20" text=" Bán nhà"/>
+    <items x="557" y="0" width="32" height="20" text="Bán đất"/>
+    <items x="607" y="0" width="29" height="20" text="Bản đồ"/>
+    <items x="654" y="0" width="30" height="20" text="Liên hệ"/>
+  </widgets>
+  <hRuler>
+    <guides position="1"/>
+  </hRuler>
+  <vRuler/>
+  <font/>
+</model:Screen>
