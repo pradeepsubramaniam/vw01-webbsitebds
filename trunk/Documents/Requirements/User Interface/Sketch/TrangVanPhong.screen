@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" y="-120" width="800" height="2641" text="Browser&#xA;http://..." measuredWidth="800" measuredHeight="2641" verticalScrollbar="true"/>
+  <widgets xsi:type="model:Rectangle" id="7" x="10" y="-56" width="103" height="100" text="Your Logo" measuredWidth="103" measuredHeight="100">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="11" x="6" y="104" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:Placeholder" id="15" x="528" y="216" width="247" height="177" text="Quảng cáo" measuredWidth="247" measuredHeight="177"/>
+  <widgets xsi:type="model:Placeholder" id="16" x="264" y="-56" width="503" height="100" text="Hình ảnh quảng cáo" measuredWidth="503" measuredHeight="100"/>
+  <widgets xsi:type="model:WidgetGroup" id="360" x="10" y="216" measuredWidth="505" measuredHeight="177">
+    <widgets xsi:type="model:Rectangle" id="28" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="29" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="30" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="35" x="112" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="36" x="112" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="37" x="112" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="38" x="56" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="39" x="56" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="40" x="56" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="41" x="168" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="42" x="168" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="43" x="168" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="44" x="280" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="45" x="280" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="46" x="280" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="47" x="224" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="48" x="224" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="49" x="224" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="50" x="336" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="51" x="336" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="52" x="336" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="53" x="448" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="54" x="448" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="55" x="448" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="56" x="392" y="120" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="57" x="392" y="60" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="58" x="392" width="57" height="57" measuredWidth="57" measuredHeight="57">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:WidgetGroup" id="61" x="78" y="50" measuredWidth="339" measuredHeight="67">
+      <widgets xsi:type="model:WidgetGroup" id="60" measuredWidth="339" measuredHeight="67">
+        <widgets xsi:type="model:Label" id="59" text="KHU VỰC TIN VIP" measuredWidth="339" measuredHeight="67">
+          <font size="32"/>
+        </widgets>
+      </widgets>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="88" x="192" y="416" width="583" height="1705" measuredWidth="583" measuredHeight="1705"/>
+  <widgets xsi:type="model:HLine" id="91" x="192" y="464" width="583" measuredWidth="583" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="92" x="202" y="416" text="Văn phòng cho thuê mới cập nhật" measuredWidth="490" measuredHeight="53">
+    <font size="24"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="151" x="648" y="431"/>
+  <widgets xsi:type="model:Image" id="152" x="718" y="482"/>
+  <widgets xsi:type="model:Image" id="183" x="684" y="529"/>
+  <widgets xsi:type="model:WidgetGroup" id="214" x="12" y="1280" width="174" height="273" measuredWidth="174" measuredHeight="273">
+    <widgets xsi:type="model:Panel" id="178" width="174" height="273" measuredWidth="174" measuredHeight="273"/>
+    <widgets xsi:type="model:HLine" id="179" y="53" width="174" measuredWidth="174" measuredHeight="6"/>
+    <widgets xsi:type="model:Label" id="182" x="12" y="6" width="107" text="Hỗ trợ" measuredWidth="107" measuredHeight="48">
+      <font size="22"/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="184" x="12" y="71" width="152" height="26" measuredWidth="152" measuredHeight="26" src="online.gif"/>
+    <widgets xsi:type="model:Label" id="187" x="12" y="107" width="152" text="Ng Văn A - 0901234567" measuredWidth="152" measuredHeight="21">
+      <font size="8" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="188" x="12" y="134" width="152" height="26" measuredWidth="152" measuredHeight="26" src="online.gif"/>
+    <widgets xsi:type="model:Label" id="189" x="12" y="170" width="152" text="Ng Văn A - 0901234567" measuredWidth="152" measuredHeight="21">
+      <font size="8" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="190" x="12" y="201" width="152" height="26" measuredWidth="152" measuredHeight="26" src="online.gif"/>
+    <widgets xsi:type="model:Label" id="191" x="12" y="237" width="152" text="Ng Văn A - 0901234567" measuredWidth="152" measuredHeight="21">
+      <font size="8" bold="true"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="193" x="576" y="106" text="Đăng ký,Đăng nhập,Đăng tin" measuredWidth="189" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="45" height="23" text="Đăng ký"/>
+    <items x="63" y="0" width="60" height="23" text="Đăng nhập"/>
+    <items x="141" y="0" width="47" height="23" text="Đăng tin"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="368" x="10" y="784" measuredWidth="176" measuredHeight="492">
+    <widgets xsi:type="model:Rectangle" id="198" x="1" width="175" height="492" measuredWidth="175" measuredHeight="492">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:HLine" id="199" x="7" y="51" width="169" measuredWidth="169" measuredHeight="6"/>
+    <widgets xsi:type="model:Label" id="200" x="16" y="18" text="TP Hồ Chí Minh" measuredWidth="130" measuredHeight="31">
+      <font size="13" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="201" y="62" text="* Cho thuê VP Quận 1&#xD;&#xA;* Cho thuê VP Quận 2&#xD;&#xA;* Cho thuê VP Quận 3&#xD;&#xA;* Cho thuê VP Quận 4&#xD;&#xA;* Cho thuê VP Quận 5&#xD;&#xA;* Cho thuê VP Quận 6&#xD;&#xA;* Cho thuê VP Quận 7&#xD;&#xA;* Cho thuê VP Quận 8&#xD;&#xA;* Cho thuê VP Quận 9&#xD;&#xA;* Cho thuê VP Quận 10&#xD;&#xA;* Cho thuê VP Quận 11&#xD;&#xA;* Cho thuê VP Quận 12&#xD;&#xA;* Cho thuê VP Bình Tân&#xD;&#xA;* Cho thuê VP Bình Thạnh&#xD;&#xA;* Cho thuê VP Tân Phú&#xD;&#xA;* Cho thuê VP Tân Bình&#xD;&#xA;* Cho thuê VP Gò Vấp&#xD;&#xA;* Cho thuê VP Thủ Đức&#xD;&#xA;* Cho thuê VP Phú Nhuận&#xD;&#xA;* Cho thuê VP Bình Chánh&#xD;&#xA;* Cho thuê VP Nhà Bè&#xD;&#xA;* Cho thuê VP Củ Chi&#xD;&#xA;* Cho thuê VP Hóc Môn&#xD;&#xA;* Cho thuê VP Cần Giờ&#xD;&#xA;" measuredWidth="167" measuredHeight="408">
+      <font size="10"/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="212" x="6" y="136" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="213" x="16" y="138" text="Trang chủ, Nhà bán, Đất bán, Cho thuê , Cần thuê, Cần mua, Bản đồ, Liên hệ" measuredWidth="506" measuredHeight="23" selection="0">
+    <font size="9" bold="false"/>
+    <items x="0" y="0" width="56" height="23" text="Trang chủ"/>
+    <items x="74" y="0" width="47" height="23" text="Nhà bán"/>
+    <items x="139" y="0" width="43" height="23" text="Đất bán"/>
+    <items x="200" y="0" width="54" height="23" text="Cho thuê "/>
+    <items x="272" y="0" width="50" height="23" text="Cần thuê"/>
+    <items x="340" y="0" width="50" height="23" text="Cần mua"/>
+    <items x="408" y="0" width="39" height="23" text="Bản đồ"/>
+    <items x="465" y="0" width="40" height="23" text="Liên hệ"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="217" y="2392" measuredWidth="785" measuredHeight="97">
+    <widgets xsi:type="model:HLine" id="218" width="785" measuredWidth="785" measuredHeight="6"/>
+    <widgets xsi:type="model:LinkBar" id="219" x="321" y="74" text="Home,Blog,Forum,About" measuredWidth="188" measuredHeight="23">
+      <font/>
+      <items x="0" y="0" width="35" height="23" text="Home"/>
+      <items x="53" y="0" width="26" height="23" text="Blog"/>
+      <items x="97" y="0" width="37" height="23" text="Forum"/>
+      <items x="152" y="0" width="35" height="23" text="About"/>
+    </widgets>
+    <widgets xsi:type="model:Label" id="220" x="334" y="40" text="Thiết kế webiste bới VWSOL" measuredWidth="152" measuredHeight="23">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Rectangle" id="75" x="10" y="1560" width="175" height="809" measuredWidth="175" measuredHeight="809">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="78" x="40" y="1578" text="Danh sách BDS nổi bật" measuredWidth="129" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="86" x="25" y="1755" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="87" x="25" y="1843" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="176" x="25" y="1632" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="177" x="25" y="1720" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="77" x="10" y="1610" width="169" measuredWidth="169" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="290" x="25" y="1872" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="291" x="25" y="1960" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="292" x="25" y="1992" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="293" x="25" y="2080" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="294" x="25" y="2112" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="295" x="25" y="2200" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="298" x="25" y="2238" width="139" height="97" measuredWidth="139" measuredHeight="97" icon="image (large)"/>
+  <widgets xsi:type="model:Label" id="299" x="25" y="2326" width="127" text="Tiêu đề BDS" measuredWidth="127" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="351" x="6" y="72" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:Menu" id="353" x="6" y="168" width="765" measuredWidth="765" measuredHeight="27">
+    <items x="5" y="0" width="10" height="27"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="354" x="16" y="74" text="TP Hồ Chí Minh, Hà Nội, Hải Phòng, Cần Thơ" measuredWidth="286" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="87" height="23" text="TP Hồ Chí Minh"/>
+    <items x="105" y="0" width="39" height="23" text="Hà Nội"/>
+    <items x="162" y="0" width="58" height="23" text="Hải Phòng"/>
+    <items x="238" y="0" width="47" height="23" text="Cần Thơ"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="355" x="16" y="170" text="Đặt làm trang chủ, Liên hệ" measuredWidth="156" measuredHeight="23">
+    <font size="9"/>
+    <items x="0" y="0" width="97" height="23" text="Đặt làm trang chủ"/>
+    <items x="115" y="0" width="40" height="23" text="Liên hệ"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="356" x="320" y="73" text="Chọn tỉnh thành" measuredWidth="107" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:CurlyBrace" id="362" x="816" y="128" text="&#xD;&#xA;" measuredWidth="16" measuredHeight="100" annotation="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="363" x="840" y="-112" text="* Nhà bán&#xA;## nhà phố&#xA;## nhà tạm&#xA;## biệt thự&#xA;## căn hộ cao cấp&#xA;## căn hộ chung cư&#xA;* Đất bán&#xA;## Đất cho sản suất&#xA;## Đất dự án&#xA;## Đất lâm nghiệp&#xA;## Đất nông nghiệp&#xA;## Đất ở - đất thổ cư&#xA;* Cho Thuê&#xA;## Nhà phố   &#xA;## Nhà tạm   &#xA;## Villa-Biệt thự   &#xA;## Căn hộ cao cấp   &#xA;## Căn hộ chung cư   &#xA;## Văn phòng   &#xA;## Mặt bằng   &#xA;## Nhà hàng-Khách sạn   &#xA;## Nhà Kho - Xưởng   &#xA;## Phòng trọ &#xA;* Cần thuê&#xA;## Nhà phố   &#xA;## Nhà tạm   &#xA;## Villa-Biệt thự   &#xA;## Căn hộ cao cấp   &#xA;## Căn hộ chung cư   &#xA;## Văn phòng   &#xA;## Mặt bằng   &#xA;## Nhà hàng-Khách sạn   &#xA;## Nhà Kho - Xưởng   &#xA;## Phòng trọ&#xA;* Cần mua&#xA;## Nhà phố   &#xA;## Nhà tạm   &#xA;## Villa-Biệt thự   &#xA; ## Căn hộ cao cấp   &#xA; ## Căn hộ chung cư   &#xA;## Đất cho sản xuất   &#xA;## Đất dự án-Quy hoạch   &#xA;## Đất lâm nghiệp   &#xA;## Đất nông nghiệp   &#xA;## Đất ở-Đất thổ cư" measuredWidth="171" measuredHeight="675">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="367" x="10" y="416" width="176" measuredWidth="176" measuredHeight="358">
+    <widgets xsi:type="model:Rectangle" id="62" width="176" height="358" measuredWidth="176" measuredHeight="358">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:HLine" id="63" y="73" width="169" measuredWidth="169" measuredHeight="6"/>
+    <widgets xsi:type="model:Label" id="64" x="29" y="13" width="107" text="TÌM KIẾM" measuredWidth="107" measuredHeight="21">
+      <font size="8" bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:HLine" id="66" y="274" width="169" measuredWidth="169" measuredHeight="6"/>
+    <widgets xsi:type="model:Button" id="67" x="14" y="289" width="68" height="22" text="Tìm kiếm" measuredWidth="68" measuredHeight="22">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" id="68" x="14" y="319" width="133" height="22" text="Tìm kiếm trên bản đồ" measuredWidth="133" measuredHeight="22">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Combo" id="69" x="14" y="103" width="135" text="Tỉnh/Thành" measuredWidth="135" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Combo" id="71" x="14" y="145" width="135" text="Quận/huyện" measuredWidth="135" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Combo" id="72" x="14" y="187" width="135" text="Giá" measuredWidth="135" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Combo" id="73" x="14" y="229" width="135" text="Diện tích" measuredWidth="135" measuredHeight="23">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Tabs" id="366" x="22" y="49" text="Bán, thuê" measuredWidth="86" measuredHeight="27" selection="0">
+      <items x="1" y="0" width="40" height="27" text="Bán"/>
+      <items x="41" y="0" width="44" height="27" text="thuê"/>
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="374" x="202" y="482" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="97" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="98" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="373" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="372" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="375" x="394" y="482" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="376" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="377" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="378" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="379" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="380" x="584" y="482" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="381" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="382" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="383" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="384" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="385" x="202" y="752" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="386" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="387" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="388" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="389" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="390" x="394" y="752" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="391" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="392" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="393" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="394" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="395" x="584" y="752" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="396" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="397" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="398" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="399" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="431" x="202" y="1027" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="432" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="433" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="434" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="435" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="436" x="394" y="1027" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="437" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="438" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="439" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="440" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="441" x="584" y="1027" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="442" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="443" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="444" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="445" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="446" x="202" y="1297" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="447" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="448" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="449" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="450" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="451" x="394" y="1297" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="452" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="453" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="454" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="455" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="456" x="584" y="1297" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="457" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="458" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="459" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="460" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="461" x="202" y="1570" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="462" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="463" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="464" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="465" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="466" x="394" y="1570" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="467" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="468" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="469" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="470" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="471" x="584" y="1570" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="472" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="473" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="474" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="475" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="476" x="202" y="1840" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="477" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="478" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="479" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="480" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="481" x="394" y="1840" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="482" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="483" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="484" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="485" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="486" x="584" y="1840" measuredWidth="183" measuredHeight="264">
+    <widgets xsi:type="model:Text" id="487" y="219" width="173" text="Quận 7&#xD;&#xA;Giá 500tr&#xD;&#xA;Diện tích còn trống 50m2" measuredWidth="173" measuredHeight="45" dummyText="true">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" id="488" y="190" width="183" height="30" text="Cho thuê căn hộ Riverside residence, Phú Mỹ Hưng, quận 7" measuredWidth="183" measuredHeight="30" dummyText="true">
+      <font bold="true"/>
+    </widgets>
+    <widgets xsi:type="model:Rectangle" id="489" width="183" height="183" measuredWidth="183" measuredHeight="183">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Image" id="490" x="14" y="12" width="159" height="160" measuredWidth="159" measuredHeight="160" src="new%20apartments%20sketch.jpg"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="492" x="728" y="488" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="493" x="536" y="488" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="494" x="344" y="488" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="495" x="728" y="760" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="496" x="536" y="760" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="497" x="344" y="760" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="498" x="728" y="1040" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="499" x="536" y="1040" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="500" x="344" y="1040" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="501" x="728" y="1312" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="502" x="536" y="1312" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <widgets xsi:type="model:Icon" id="503" x="344" y="1312" measuredWidth="32" measuredHeight="32" icon="pin (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

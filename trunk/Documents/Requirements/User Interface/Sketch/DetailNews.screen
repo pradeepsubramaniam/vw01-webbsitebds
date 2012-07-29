@@ -524,6 +524,12 @@
   <widgets xsi:type="model:Text" id="477" x="216" y="824" width="390" height="471" text="Cho Thuê Văn Phòng&#xD;&#xA;* Địa chỉ &#x9;: &#x9;294 Lê Thị Riêng, Phường Thới An, Quận 12, Hồ Chí Minh&#xD;&#xA;* Ngày đăng &#x9;: &#x9;08/04/2012&#xD;&#xA;* Ngày hết hạn &#x9;: &#x9;30/07/2012&#xD;&#xA;* Số lượt xem &#x9;: &#x9;1325&#xD;&#xA;* Diện tích sử dụng &#x9;: &#x9;85 m²&#xD;&#xA;* Chiều ngang &#x9;: &#x9;4 m&#xD;&#xA;* Chiều dọc &#x9;: &#x9;22 m&#xD;&#xA;* Nở hậu &#x9;: &#x9;4 m&#xD;&#xA;* Số tầng lầu &#x9;: &#x9;1&#xD;&#xA;* Số Toilet &#x9;: &#x9;1&#xD;&#xA;* Số phòng ngủ &#x9;: &#x9;3 &#xD;&#xA;&#xD;&#xA;Nhà Cho Thuê Nguyên Căn 85M2 4Tr500 Tháng, Quận 12 nhà cho thuê nguyên căn 4tr500 tháng dt: 4 x 22, nhà mới, 2 phỏng ngủ, thêm gác lửng, khách, bếp, wc tiện nghi mat tiền 8m nhựa, khu đông dân cư, thích hợp cho gia đình thuê ở lh 0933 31 39 32, mien trung gian" measuredWidth="390" measuredHeight="471" dummyText="true">
     <font size="13" bold="false"/>
   </widgets>
+  <widgets xsi:type="model:Button" id="478" x="458" y="685" text="Vi trí tài sản" measuredWidth="81" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="479" x="458" y="728" text="Tài sản gần vị trí" measuredWidth="106" measuredHeight="25">
+    <font/>
+  </widgets>
   <hRuler>
     <guides position="334"/>
   </hRuler>
