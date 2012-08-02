@@ -13,9 +13,8 @@ body
 	border-top-width: 10px;
 	border-top-style: solid;
 	border-top-color: #013976;
-	background-color: #A6D5EF;
 	background-image: url(../images/background.jpg);
-	background-repeat: repeat-x;
+	background-repeat: repeat;
 }
 }
 
@@ -383,7 +382,7 @@ a.nivo-nextNav {
 .sidebar_container
 {
 	float: right;
-	width: 220px;
+	width: 250px;
 	background: #bbb;
 	margin-top: 20px;
 	margin-right: 10px;
@@ -392,15 +391,20 @@ a.nivo-nextNav {
 }
 
 .sidebar
-{ float: right;
-  width: 210px;
-  padding-left: 10px;
-  margin-bottom: 10px;}
+{
+	float: right;
+	padding-left: 10px;
+	margin-bottom: 10px;
+}
 
 .sidebar_item
-{ font: normal 100% arial, sans-serif;
-  padding: 0 15px 0 0;
-  width: 201px;}
+{
+	font: normal 100% arial, sans-serif;
+	padding-top: 0;
+	padding-right: 5px;
+	padding-bottom: 0;
+	padding-left: 0;
+}
 
 .sidebar h2
 { color: #003C7F;}  
